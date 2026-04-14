@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/janani-pb/DSA/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/janani-pb/DSA/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/janani-pb/DSA/tree/master/0619-biggest-single-number) |
+| [1148-article-views-i](https://github.com/janani-pb/DSA/tree/master/1148-article-views-i) |
 ## Two Pointers
 |  |
 | ------- |
