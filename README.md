@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/janani-pb/DSA/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/janani-pb/DSA/tree/master/0619-biggest-single-number) |
 | [1148-article-views-i](https://github.com/janani-pb/DSA/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/janani-pb/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Two Pointers
 |  |
 | ------- |
