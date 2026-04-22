@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/janani-pb/DSA/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/janani-pb/DSA/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/janani-pb/DSA/tree/master/1179-reformat-department-table) |
+| [1251-average-selling-price](https://github.com/janani-pb/DSA/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/janani-pb/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1873-calculate-special-bonus](https://github.com/janani-pb/DSA/tree/master/1873-calculate-special-bonus) |
 ## Two Pointers
