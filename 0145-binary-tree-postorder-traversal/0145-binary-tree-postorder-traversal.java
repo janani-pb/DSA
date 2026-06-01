@@ -19,8 +19,8 @@ class Solution {
         if(root==null){
             return ;
         }
-        postorderTraversal(root.left);
-        postorderTraversal(root.right);
+        Traversal(root.left);
+        Traversal(root.right);
         l.add(root.val);
         
     }
