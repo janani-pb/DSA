@@ -14,17 +14,10 @@
  * }
  */
 class Solution {
-    Queue<Integer> q =new LinkedList<>();
-    public void Traverse(TreeNode root){
-        if(root==null){
-            return;
-        }
-        q.add(root.val);
-        Traverse(root.left);
-        Traverse(root.right);
-    }
     public int countNodes(TreeNode root) {
-        Traverse(root);
-        return q.size();
+        if(root==null){
+            return 0;
+        }
+    return 1+countNodes(root.left)+countNodes(root.right);
     }
 }
