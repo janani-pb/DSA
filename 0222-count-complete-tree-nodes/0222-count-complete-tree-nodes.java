@@ -14,10 +14,17 @@
  * }
  */
 class Solution {
-    public int countNodes(TreeNode root) {
+    int c=0;
+    public void traverse(TreeNode root){
         if(root==null){
-            return 0;
+            return ;
         }
-    return 1+countNodes(root.left)+countNodes(root.right);
+        c++;
+        traverse(root.left);
+        traverse(root.right);
+    }
+    public int countNodes(TreeNode root) {
+        traverse(root);
+        return c;
     }
 }
