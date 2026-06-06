@@ -1,43 +1,43 @@
 class Solution {
     public void solve(char[][] board) {
         int c=0;
-        int n=board.length;
-        int m =board[0].length;
-        for(int j=0;j<m;j++){
-            if(board[0][j]=='O') {
-                dfs(board,0,j,n,m);
+        int row = board.length;
+        int col = board[0].length;
+        for(int j=0;j<col;j++){
+            if(board[0][j]=='O'){
+                dfs(board,0,j,row,col);
             }
-            if(board[n-1][j]=='O'){
-                dfs(board,n-1,j,n,m);
+            if(board[row-1][j]=='O'){
+                dfs(board,row-1,j,row,col);
             }
         }
-        for(int i=0;i<n;i++){
+        for(int i=0;i<row;i++){
             if(board[i][0]=='O'){
-                dfs(board,i,0,n,m);
+                dfs(board,i,0,row,col);
             }
-            if(board[i][m-1]=='O'){
-                dfs(board,i,m-1,n,m);
+            if(board[i][col-1]=='O'){
+                dfs(board,i,col-1,row,col);
             }
         }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
                 if(board[i][j]=='O'){
-                   board[i][j]='X';
+                    board[i][j]='X';
                 }
-                else if(board[i][j]=='#'){
+                if(board[i][j]=='#'){
                     board[i][j]='O';
                 }
-             }
+            }
         }
     }
-    public void dfs(char[][]board,int i,int j , int n, int m){
-        if(i<0 || j<0 ||i>=n||j>=m||board[i][j]!='O'){
+    public void dfs(char[][] board,int i,int j,int row,int col){
+        if(i<0 || j<0 || i>=row || j>=col || board[i][j]!='O'){
             return;
         }
         board[i][j]='#';
-        dfs(board,i-1,j,n,m);
-        dfs(board,i+1,j,n,m);
-        dfs(board,i,j-1,n,m);
-        dfs(board,i,j+1,n,m);
+        dfs(board,i-1,j,row,col);
+        dfs(board,i+1,j,row,col);
+        dfs(board,i,j-1,row,col);
+        dfs(board,i,j+1,row,col);
     }
 }
