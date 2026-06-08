@@ -17,11 +17,11 @@ class Solution {
                 q.add(i);
             }
         }
-        int[] course=new int[numCourses];
+        int[] r=new int[numCourses];
         int index=0;
         while(!q.isEmpty()){
             int n = q.poll();
-            course[index++]=n;
+            r[index++]=n;
             for(int nbr:l.get(n)){
                 indegree[nbr]--;
                 if(indegree[nbr]==0){
@@ -29,6 +29,6 @@ class Solution {
             }
             }
         }
-        return index==numCourses ? course : new int[0];
+        return index==numCourses ? r : new int[0]; // returning array format
     }
 }
