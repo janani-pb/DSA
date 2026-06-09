@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/janani-pb/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janani-pb/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/janani-pb/DSA/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/janani-pb/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/janani-pb/DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/janani-pb/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/janani-pb/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/janani-pb/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/janani-pb/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/janani-pb/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/janani-pb/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/janani-pb/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/janani-pb/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/janani-pb/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -208,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/janani-pb/DSA/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/janani-pb/DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/janani-pb/DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
