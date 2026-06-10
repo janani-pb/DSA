@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/janani-pb/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/janani-pb/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/janani-pb/DSA/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/janani-pb/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/janani-pb/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/janani-pb/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/janani-pb/DSA/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/janani-pb/DSA/tree/main/0052-n-queens-ii/) | Hard |
