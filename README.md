@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/janani-pb/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/janani-pb/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/janani-pb/DSA/tree/master/0258-add-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/janani-pb/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/janani-pb/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/janani-pb/DSA/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/janani-pb/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/janani-pb/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/janani-pb/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/janani-pb/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
