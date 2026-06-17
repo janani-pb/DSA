@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/janani-pb/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/janani-pb/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/janani-pb/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/janani-pb/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/janani-pb/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janani-pb/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/janani-pb/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/janani-pb/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/janani-pb/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/janani-pb/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/janani-pb/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/janani-pb/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/janani-pb/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/janani-pb/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/janani-pb/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/janani-pb/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
