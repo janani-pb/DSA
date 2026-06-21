@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/janani-pb/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janani-pb/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/janani-pb/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/janani-pb/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
