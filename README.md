@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/janani-pb/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/janani-pb/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0994-rotting-oranges](https://github.com/janani-pb/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/janani-pb/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/janani-pb/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
