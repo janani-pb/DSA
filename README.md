@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/janani-pb/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janani-pb/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janani-pb/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -106,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/janani-pb/DSA/tree/main/0078-subsets/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Dynamic Programming
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janani-pb/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/janani-pb/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Counting Sort
