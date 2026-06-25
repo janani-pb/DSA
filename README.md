@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/janani-pb/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/janani-pb/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janani-pb/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/janani-pb/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janani-pb/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/janani-pb/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/janani-pb/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/janani-pb/DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/janani-pb/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/janani-pb/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janani-pb/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/janani-pb/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/janani-pb/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/janani-pb/DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/janani-pb/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/janani-pb/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janani-pb/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/janani-pb/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/janani-pb/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/janani-pb/DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/janani-pb/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/janani-pb/DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/janani-pb/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
+| [0257-binary-tree-paths](https://github.com/janani-pb/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
