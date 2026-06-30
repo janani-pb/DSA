@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/janani-pb/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/janani-pb/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0258-add-digits](https://github.com/janani-pb/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/janani-pb/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/janani-pb/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/janani-pb/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/janani-pb/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janani-pb/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janani-pb/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/janani-pb/DSA/tree/main/0198-house-robber/) | Medium |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/janani-pb/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/janani-pb/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/janani-pb/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/janani-pb/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/janani-pb/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/janani-pb/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/janani-pb/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
