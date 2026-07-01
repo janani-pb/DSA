@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0258-add-digits](https://github.com/janani-pb/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
+| [0507-perfect-number](https://github.com/janani-pb/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/janani-pb/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/janani-pb/DSA/tree/main/1025-divisor-game/) | Easy |
