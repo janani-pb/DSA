@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/janani-pb/DSA/tree/main/0051-n-queens/) | Hard |
 | [0063-unique-paths-ii](https://github.com/janani-pb/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/janani-pb/DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/janani-pb/DSA/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/janani-pb/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/janani-pb/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/janani-pb/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/janani-pb/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/janani-pb/DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/janani-pb/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
