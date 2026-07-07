@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/janani-pb/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/janani-pb/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/janani-pb/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/janani-pb/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/janani-pb/DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/janani-pb/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/janani-pb/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -354,11 +356,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/janani-pb/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/janani-pb/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
