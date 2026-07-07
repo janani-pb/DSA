@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/janani-pb/DSA/tree/main/1025-divisor-game/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/janani-pb/DSA/tree/master/2413-smallest-even-multiple) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/janani-pb/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
