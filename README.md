@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/janani-pb/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/janani-pb/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Matrix
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/janani-pb/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/janani-pb/DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/janani-pb/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/janani-pb/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0258-add-digits](https://github.com/janani-pb/DSA/tree/master/0258-add-digits) |
