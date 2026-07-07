@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/janani-pb/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/janani-pb/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/janani-pb/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/janani-pb/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/janani-pb/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/janani-pb/DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/janani-pb/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/janani-pb/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
