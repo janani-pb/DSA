@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/janani-pb/DSA/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/janani-pb/DSA/tree/main/0178-rank-scores/) | Medium |
 | [0577-employee-bonus](https://github.com/janani-pb/DSA/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/janani-pb/DSA/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/janani-pb/DSA/tree/master/0595-big-countries) |
