@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/janani-pb/DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/janani-pb/DSA/tree/master/1873-calculate-special-bonus) |
 | [3436-find-valid-emails](https://github.com/janani-pb/DSA/tree/main/3436-find-valid-emails/) | Easy |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/janani-pb/DSA/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
