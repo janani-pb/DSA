@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/janani-pb/DSA/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/janani-pb/DSA/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/janani-pb/DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1729-find-followers-count](https://github.com/janani-pb/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/janani-pb/DSA/tree/master/1873-calculate-special-bonus) |
 | [3436-find-valid-emails](https://github.com/janani-pb/DSA/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/janani-pb/DSA/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
