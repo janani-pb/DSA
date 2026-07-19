@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
 | [0647-palindromic-substrings](https://github.com/janani-pb/DSA/tree/main/0647-palindromic-substrings/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/janani-pb/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/janani-pb/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/janani-pb/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/janani-pb/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/janani-pb/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/janani-pb/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/janani-pb/DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janani-pb/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0561-array-partition](https://github.com/janani-pb/DSA/tree/main/0561-array-partition/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -392,4 +395,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/janani-pb/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
