@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/janani-pb/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/janani-pb/DSA/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/janani-pb/DSA/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/janani-pb/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/janani-pb/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/janani-pb/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/janani-pb/DSA/tree/main/0066-plus-one/) | Easy |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/janani-pb/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/janani-pb/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
