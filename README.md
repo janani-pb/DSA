@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/janani-pb/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/janani-pb/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/janani-pb/DSA/tree/master/1873-calculate-special-bonus) |
+| [1965-employees-with-missing-information](https://github.com/janani-pb/DSA/tree/main/1965-employees-with-missing-information/) | Easy |
 | [3436-find-valid-emails](https://github.com/janani-pb/DSA/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/janani-pb/DSA/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 ## Two Pointers
