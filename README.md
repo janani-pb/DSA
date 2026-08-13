@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/janani-pb/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/janani-pb/DSA/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/janani-pb/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0771-jewels-and-stones](https://github.com/janani-pb/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
