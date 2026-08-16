@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janani-pb/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/janani-pb/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/janani-pb/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/janani-pb/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/janani-pb/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0647-palindromic-substrings](https://github.com/janani-pb/DSA/tree/main/0647-palindromic-substrings/) | Medium |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/janani-pb/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/janani-pb/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/janani-pb/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/janani-pb/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/janani-pb/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/janani-pb/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0561-array-partition](https://github.com/janani-pb/DSA/tree/main/0561-array-partition/) | Easy |
@@ -442,9 +445,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/janani-pb/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/janani-pb/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
