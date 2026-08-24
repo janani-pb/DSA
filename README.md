@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/janani-pb/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/janani-pb/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/janani-pb/DSA/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0258-add-digits](https://github.com/janani-pb/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/janani-pb/DSA/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/janani-pb/DSA/tree/main/0089-gray-code/) | Medium |
 | [0191-number-of-1-bits](https://github.com/janani-pb/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/janani-pb/DSA/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/janani-pb/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/janani-pb/DSA/tree/main/0089-gray-code/) | Medium |
 | [0257-binary-tree-paths](https://github.com/janani-pb/DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
