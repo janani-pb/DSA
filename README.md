@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/janani-pb/DSA/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/janani-pb/DSA/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/janani-pb/DSA/tree/master/0619-biggest-single-number) |
+| [1045-customers-who-bought-all-products](https://github.com/janani-pb/DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1148-article-views-i](https://github.com/janani-pb/DSA/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/janani-pb/DSA/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/janani-pb/DSA/tree/master/1179-reformat-department-table) |
