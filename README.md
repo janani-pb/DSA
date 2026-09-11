@@ -472,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/janani-pb/DSA/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
