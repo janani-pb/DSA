@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/janani-pb/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/janani-pb/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0541-reverse-string-ii](https://github.com/janani-pb/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/janani-pb/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/janani-pb/DSA/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/janani-pb/DSA/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/janani-pb/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/janani-pb/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0771-jewels-and-stones](https://github.com/janani-pb/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
