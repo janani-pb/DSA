@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janani-pb/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janani-pb/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/janani-pb/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/janani-pb/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/janani-pb/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/janani-pb/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/janani-pb/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/janani-pb/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/janani-pb/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/janani-pb/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
