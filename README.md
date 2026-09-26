@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/janani-pb/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/janani-pb/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/janani-pb/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/janani-pb/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/janani-pb/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janani-pb/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/janani-pb/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/janani-pb/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/janani-pb/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/janani-pb/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/janani-pb/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/janani-pb/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/janani-pb/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/janani-pb/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/janani-pb/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/janani-pb/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/janani-pb/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/janani-pb/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/janani-pb/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
