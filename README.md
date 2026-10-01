@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/janani-pb/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/janani-pb/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/janani-pb/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/janani-pb/DSA/tree/main/0079-word-search/) | Medium |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/janani-pb/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/janani-pb/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/janani-pb/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/janani-pb/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/janani-pb/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janani-pb/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
