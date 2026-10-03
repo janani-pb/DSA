@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/janani-pb/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/janani-pb/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0541-reverse-string-ii](https://github.com/janani-pb/DSA/tree/main/0541-reverse-string-ii/) | Easy |
+| [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/janani-pb/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/janani-pb/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0561-array-partition](https://github.com/janani-pb/DSA/tree/main/0561-array-partition/) | Easy |
+| [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/janani-pb/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/janani-pb/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janani-pb/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/janani-pb/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/janani-pb/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/janani-pb/DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/janani-pb/DSA/tree/main/0561-array-partition/) | Easy |
+| [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/janani-pb/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/janani-pb/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/janani-pb/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/janani-pb/DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janani-pb/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0561-array-partition](https://github.com/janani-pb/DSA/tree/main/0561-array-partition/) | Easy |
+| [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/janani-pb/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
