@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/janani-pb/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/janani-pb/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/janani-pb/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janani-pb/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/janani-pb/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/janani-pb/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/janani-pb/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/janani-pb/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/janani-pb/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/janani-pb/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/janani-pb/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/janani-pb/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -503,4 +507,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/janani-pb/DSA/tree/main/0506-relative-ranks/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
