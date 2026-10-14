@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/janani-pb/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janani-pb/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/janani-pb/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/janani-pb/DSA/tree/main/0046-permutations/) | Medium |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/janani-pb/DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/janani-pb/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/janani-pb/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/janani-pb/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
