@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/janani-pb/DSA/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/janani-pb/DSA/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/janani-pb/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/janani-pb/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/janani-pb/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/janani-pb/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/janani-pb/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
