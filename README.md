@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/janani-pb/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/janani-pb/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/janani-pb/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0060-permutation-sequence](https://github.com/janani-pb/DSA/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/janani-pb/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/janani-pb/DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/janani-pb/DSA/tree/master/0067-add-binary) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/janani-pb/DSA/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/janani-pb/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/janani-pb/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/janani-pb/DSA/tree/main/0509-fibonacci-number/) | Easy |
