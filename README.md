@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/janani-pb/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/janani-pb/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/janani-pb/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/janani-pb/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/janani-pb/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/janani-pb/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/janani-pb/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/janani-pb/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/janani-pb/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/janani-pb/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/janani-pb/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/janani-pb/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
