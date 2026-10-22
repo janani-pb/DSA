@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/janani-pb/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/janani-pb/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/janani-pb/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/janani-pb/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/janani-pb/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/janani-pb/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/janani-pb/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/janani-pb/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/janani-pb/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/janani-pb/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/janani-pb/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/janani-pb/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/janani-pb/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/janani-pb/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/janani-pb/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/janani-pb/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/janani-pb/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/janani-pb/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/janani-pb/DSA/tree/main/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/janani-pb/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 ## Enumeration
