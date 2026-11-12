@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/janani-pb/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/janani-pb/DSA/tree/main/0647-palindromic-substrings/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/janani-pb/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/janani-pb/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/janani-pb/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/janani-pb/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/janani-pb/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/janani-pb/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/janani-pb/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/janani-pb/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/janani-pb/DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0611-valid-triangle-number](https://github.com/janani-pb/DSA/tree/main/0611-valid-triangle-number/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/janani-pb/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/janani-pb/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/janani-pb/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/janani-pb/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/janani-pb/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/janani-pb/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/janani-pb/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/janani-pb/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/janani-pb/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/janani-pb/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/janani-pb/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
